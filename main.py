@@ -108,7 +108,7 @@ async def id_command(client, message: Message):
         f"🆔 **This Group/Channel ID:**\n`{chat_id}`\n\n"
         f"📌 **Use this ID for further requests.**\n\n"
         f"🔗 To link this group/channel, use the following command:\n"
-        f"👉 `/add_channel {chat_id}`"
+        f"👉 `/adduser {chat_id}`"
     )
 
 
